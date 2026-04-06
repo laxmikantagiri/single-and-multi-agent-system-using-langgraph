@@ -150,8 +150,8 @@ pip install langchain-google-genai
 You need an LLM (Gemini or others).
 
 ```python
-export GEMINI_API_KEY=AIzaSyAB-RN6IJVwzWA4hxu2tRcQGJcGzqVNY9Q
-export GOOGLE_API_KEY=AIzaSyAB-RN6IJVwzWA4hxu2tRcQGJcGzqVNY9Q
+export GEMINI_API_KEY=AI8*********************************Y9Q
+export GOOGLE_API_KEY=A8**********************************Y9Q
 ```
 
 ## Step 3: Understand Core Concept
